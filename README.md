@@ -1,7 +1,7 @@
 ## 👋 Olá, me chamo Pedro Herysson.
 
 Atualmente trabalho como desenvolvedor de sistemas embarcados, com o microcontrolador ESP32. Além disso, tenho experiência com ESP8266, STM32, PIC, Arduino e o DSP da Texas Instruments (C2000 TMS320F28069M)<br>
-Atualmente estudo na Universidade de Federal do Ceará, CE ( UFC ). <br>
+Atualmente estudo na Universidade Federal do Ceará, CE ( UFC ). <br>
 
  <div>
   <a href="https://github.com/PedroHerysson">
