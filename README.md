@@ -24,3 +24,4 @@ Atualmente estudo na Universidade Federal do Ceará, CE ( UFC ). <br>
  ![Snake animation](https://github.com/PedroHerysson/PedroHerysson/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=PedroHerysson&repo=PedroHerysson&theme=react)](https://github.com/PedroHerysson/PedroHerysson)
